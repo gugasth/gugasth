@@ -1,6 +1,6 @@
-## Oi, eu sou o Gustavo! ✨💻
-- ✨ Florianópolis, Brasil
-- 📚 Estudando C, C#, C++
+## Hello, i'm gustavo! ✨💻
+- ✨ Florianópolis, Brazil
+- 📚 C, C#, C++, Java.
 
 
 <div style="display: inline_block"><br>
