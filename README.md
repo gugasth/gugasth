@@ -1,4 +1,4 @@
-## Hello, i'm gustavo! ✨💻
+## Hello, i am gustavo! ✨💻
 - ✨ Florianópolis, Brazil.
 - 📚 C, C#, C++, Java.
 
