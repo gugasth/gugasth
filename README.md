@@ -1,6 +1,6 @@
 ## Hello, i am gustavo! ✨💻
 - ✨ Florianópolis, Brazil.
-- 📚 C, C#, C++, Java
+- 📚 C, C#, C++, Java, Python.
 
 
 <div style="display: inline_block"><br>
