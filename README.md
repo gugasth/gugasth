@@ -1,6 +1,6 @@
 ## Hello, i am gustavo! ✨💻
 - ✨ Florianópolis, Brazil.
-- IA enthusiast
+- AI enthusiast
 - Data science
 - 📚 C, C#, C++, Java, Python.
 
