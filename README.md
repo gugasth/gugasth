@@ -37,7 +37,5 @@
 <br />
 <br />
 
-<img align="left" alt="Gustavo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gugasth&show_icons=true&hide_border=true" />
-
 [linkedin]: linkedin.com/in/gustavo-paulo
 [instagram]: https://instagram.com/gugaapaulo
