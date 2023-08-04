@@ -1,6 +1,6 @@
 ### Gustavo Paulo 👋
 
-## I'm a telecom engineering student currently working on a data science project leveraging data-driven AI solutions that impact business and improve end products.
+## I'm a telecom engineering student, currently working on a data science project leveraging data-driven AI solutions that impact business and improve end products.
 
 
 - 💻 I’m currently working in a Data Science Project
