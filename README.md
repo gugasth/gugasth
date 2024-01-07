@@ -17,4 +17,3 @@
 <br />
 
 [linkedin]: linkedin.com/in/gustavo-paulo
-[instagram]: https://instagram.com/gugaapaulo
