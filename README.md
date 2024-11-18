@@ -16,4 +16,4 @@
 <br />
 <br />
 
-[linkedin]: linkedin.com/in/gustavo-paulo
+[linkedin]: [linkedin.com/in/gustavo-paulo](https://www.linkedin.com/in/gustavo-paulo-692981275/)
