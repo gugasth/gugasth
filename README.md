@@ -19,7 +19,8 @@ I'm passionate about solving complex problems using AI technologies. Currently, 
 - 🏆 Participated in data science competitions on platforms like Kaggle, achieving solid results and sharpening my problem-solving skills.
 
 - 📚 Applied predictive modeling and statistical analysis to business challenges, bridging the gap between data and actionable insights.
-Goals:
+
+### Goals:
 
 - 🌱 Continuously improving my knowledge in AI Engineering, focusing on the intersection of machine learning and language models.
 
