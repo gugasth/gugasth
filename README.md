@@ -2,7 +2,7 @@
 
 ## Telecom Engineering Student | AI Enthusiast | Aspiring AI Engineer
 
-I'm passionate about solving complex problems using AI technologies. Currently, I'm focusing on LLM-based applications, RAG optimizations, and building scalable AI solutions. My strong foundation in Machine Learning, developed through hands-on projects and competitions, empowers me to tackle the challenges of the evolving AI landscape.
+I'm passionate about solving complex software problems. Currently, I'm focusing on LLM-based applications, RAG optimizations, and building scalable AI solutions. My strong foundation in Machine Learning, developed through hands-on projects and competitions, empowers me to tackle the challenges of the evolving AI landscape.
 
 ### Current Focus:
 
