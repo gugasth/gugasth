@@ -22,7 +22,7 @@ I'm passionate about solving complex software problems, particularly in AI-drive
 
 ### Goals:
 
-🌱 Continuously improving my expertise in AI Engineering and Data Engineering, particularly in the integration of LLMs with structured and time series data.
+🌱 Continuously improving my expertise in AI Engineering and Data Engineering, particularly in the integration of LLMs with structured and unstructured data.
 
 📊 Working on projects that push the boundaries of AI, especially in forecasting, natural language understanding, and scalable data architectures.
 
