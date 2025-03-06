@@ -1,4 +1,4 @@
-Gustavo Paulo 👋
+👋
 
 ### AI Engineer
 
