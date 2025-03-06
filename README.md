@@ -1,30 +1,30 @@
-### Gustavo Paulo 👋
+Gustavo Paulo 👋
 
-## Telecom Engineering Student | AI Enthusiast | Aspiring AI Engineer
+AI Engineer
 
-I'm passionate about solving complex software problems. Currently, I'm focusing on LLM-based applications, RAG optimizations, and building scalable AI solutions. My strong foundation in Machine Learning, developed through hands-on projects and competitions, empowers me to tackle the challenges of the evolving AI landscape.
+I'm passionate about solving complex software problems, particularly in AI-driven solutions. Currently, I'm focusing on LLM-based applications, RAG optimizations, and building scalable AI solutions. My expertise in Data Engineering and Data Science allows me to create robust pipelines for AI-driven analytics and forecasting.
 
-### Current Focus:
+Current Focus:
 
-- 💻 Intern in AI Development, specializing in LLM-based applications and knowledge-enhanced retrieval.
+💻 Specializing in LLM-based applications, knowledge-enhanced retrieval, and efficient data pipelines.
 
-- 🛠️ Exploring and optimizing workflows for RAG (Retrieval-Augmented Generation) systems.
+🛠️ Exploring and optimizing workflows for RAG (Retrieval-Augmented Generation) systems.
 
-- 🤖 Building tools that leverage data to deliver impactful solutions in real-world scenarios.
+🤖 Advancing my knowledge in time series foundation models, implementing scalable forecasting solutions.
 
-### Experience Highlights:
+Experience Highlights:
 
-- 🚀 Worked on a machine learning project, from data preprocessing to deploying models, gaining experience across the ML pipeline.
+🚀 Developed end-to-end machine learning and data engineering pipelines, from ETL processes to deploying predictive models in production environments.
 
-- 🏆 Participated in data science competitions on platforms like Kaggle, achieving solid results and sharpening my problem-solving skills.
+🏆 Participated in data science competitions on platforms like Kaggle, achieving strong results and enhancing problem-solving skills.
 
-- 📚 Applied predictive modeling and statistical analysis to business challenges, bridging the gap between data and actionable insights.
+📚 Applied predictive modeling, statistical analysis, and time series forecasting techniques to drive actionable insights in real-world scenarios.
 
-### Goals:
+Goals:
 
-- 🌱 Continuously improving my knowledge in AI Engineering, focusing on the intersection of machine learning and language models.
+🌱 Continuously improving my expertise in AI Engineering and Data Engineering, particularly in the integration of LLMs with structured and time series data.
 
-- 📊 Collaborating on projects that push the boundaries of AI, especially in areas like natural language understanding and data analytics.
+📊 Working on projects that push the boundaries of AI, especially in forecasting, natural language understanding, and scalable data architectures.
 
 ### Connect with me:
 
