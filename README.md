@@ -1,10 +1,10 @@
 Gustavo Paulo 👋
 
-AI Engineer
+### AI Engineer
 
 I'm passionate about solving complex software problems, particularly in AI-driven solutions. Currently, I'm focusing on LLM-based applications, RAG optimizations, and building scalable AI solutions. My expertise in Data Engineering and Data Science allows me to create robust pipelines for AI-driven analytics and forecasting.
 
-Current Focus:
+### Current Focus:
 
 💻 Specializing in LLM-based applications, knowledge-enhanced retrieval, and efficient data pipelines.
 
@@ -12,7 +12,7 @@ Current Focus:
 
 🤖 Advancing my knowledge in time series foundation models, implementing scalable forecasting solutions.
 
-Experience Highlights:
+### Experience Highlights:
 
 🚀 Developed end-to-end machine learning and data engineering pipelines, from ETL processes to deploying predictive models in production environments.
 
@@ -20,7 +20,7 @@ Experience Highlights:
 
 📚 Applied predictive modeling, statistical analysis, and time series forecasting techniques to drive actionable insights in real-world scenarios.
 
-Goals:
+### Goals:
 
 🌱 Continuously improving my expertise in AI Engineering and Data Engineering, particularly in the integration of LLMs with structured and time series data.
 
