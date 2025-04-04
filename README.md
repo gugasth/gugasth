@@ -8,8 +8,6 @@ I'm passionate about solving complex software problems, particularly in AI-drive
 
 💻 Specializing in LLM-based applications, knowledge-enhanced retrieval, and efficient data pipelines.
 
-🛠️ Exploring and optimizing workflows for RAG (Retrieval-Augmented Generation) systems.
-
 🤖 Advancing my knowledge in time series foundation models, implementing scalable forecasting solutions.
 
 ### Experience Highlights:
