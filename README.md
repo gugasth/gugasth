@@ -1,6 +1,6 @@
 👋
 
-### AI Engineer
+### AI Engineer @ A&M
 
 I'm passionate about solving complex software problems, particularly in AI-driven solutions. Currently, I'm focusing on LLM-based applications, RAG optimizations, and building scalable AI solutions. My expertise in Data Engineering and Data Science allows me to create robust pipelines for AI-driven analytics and forecasting.
 
